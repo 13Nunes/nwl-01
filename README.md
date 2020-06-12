@@ -10,7 +10,7 @@
 > Um marketplace que conecta pessoas que precisam descartar resíduos com as empresas que os coletam
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nwl-01/ecoleta/master/capa.svg">
+  <img src="https://raw.githubusercontent.com/13Nunes/nwl-01/master/capa.svg">
 </p>
 
 ## Como iniciar o projeto na sua máquina:
