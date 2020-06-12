@@ -20,7 +20,7 @@
 - Baixe todas as dependências na sua máquina usando um dos comandos abaixo:
 ```
   $ npm i
-  $ yarn
+  $ yarn install
 ```
 - Inicíe o arquivo de banco de dados
 ```
@@ -32,7 +32,7 @@
 - Entre na pasta web e instale todas as dependêcias com um dos códigos abaixo:
 ```
   $ npm i
-  $ yarn
+  $ yarn install
 ```
 - Rode um dos seguintes comandos:
 ```
@@ -45,7 +45,7 @@
 - Entre na pasta mobile e instale todas as dependêcias com um dos códigos abaixo:
 ```
   $ npm i
-  $ yarn
+  $ yarn install
 ```
 - Rode o comando:
 ```
